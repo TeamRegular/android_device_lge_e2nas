@@ -1,0 +1,3 @@
+add_lunch_combo cm_e2nas-eng
+add_lunch_combo cm_e2nas-user
+add_lunch_combo cm_e2nas-userdebug
