@@ -23,6 +23,6 @@ $(call inherit-product, device/lge/e2nas/device.mk)
 # Set those variables here to overwrite the inherited values.
 PRODUCT_DEVICE := e2nas
 PRODUCT_NAME := full_e2nas
-PRODUCT_BRAND := MetroPCS
-PRODUCT_MODEL := LGMS395
+PRODUCT_BRAND := lge
+PRODUCT_MODEL := LGLS660
 PRODUCT_MANUFACTURER := LGE
