@@ -5,7 +5,6 @@ bin/qmiproxy
 bin/qmuxd
 bin/rild
 bin/rmt_storage
-lib/liblgderp.so
 lib/libril.so
 lib/libvss_common_core.so
 lib/libvss_common_idl.so
